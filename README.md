@@ -9,8 +9,8 @@
 * Foi útil para desenvolver e garantir minhas habilidades lógicas com programação e Python básico.
 
 ## Imagens:
-<img src="https://github.com/DarlanNoetzold/Calculadora/blob/master/Calculadora.jpg" />
-<img src="https://github.com/DarlanNoetzold/Calculadora/blob/master/Calculadora2.jpg" />
+<img src="https://github.com/DarlanNoetzold/Calculadora/blob/master/Calculadora.jpg" width="40%"/>
+<img src="https://github.com/DarlanNoetzold/Calculadora/blob/master/Calculadora2.jpg" width="40%"/>
 
 ---
 
