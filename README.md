@@ -13,5 +13,6 @@
 <img src="https://github.com/DarlanNoetzold/Calculadora/blob/master/Calculadora2.jpg" width="50%" align="right"/>
 
 ---
-
+<br>
+<br>
 ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
